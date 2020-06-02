@@ -14,10 +14,8 @@ class MainActivity : AppCompatActivity() {
         mainmaster("main master")
         xihad("xihad")
 
-        var test = "3432423423"
-        var test1 = "3432423423"
-        var test2 = "3432423423"
-        var test3 = "3432423423"
+
+        testprogram()
 
     }
 
@@ -33,6 +31,13 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    /// comments
+
+
+    fun testprogram (){
+
+        // nothing to do
+
+
+    }
 
 }
