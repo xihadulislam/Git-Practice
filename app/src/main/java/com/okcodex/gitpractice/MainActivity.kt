@@ -32,12 +32,28 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-
     fun testprogram (){
 
         // nothing to do
+    }
+
+
+    fun barA (){
+
+
+        var t =4543
+        var rr = "sdfsj dfsjh kdfjh k dfh kjsdk fd"
+
+        Log.d("dfsdfjsdlkf",rr)
+
+
+
+
 
 
     }
+
+
+
 
 }
